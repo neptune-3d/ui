@@ -1,4 +1,4 @@
-import { InputColor } from "neptune-htm";
+import { InputColor } from "@neptune3d/dom";
 import { BORDER_RADIUS, COLORS } from "./constants";
 
 export class ColorControl extends InputColor {

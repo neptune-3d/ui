@@ -1,4 +1,4 @@
-import { SelectElement } from "neptune-htm";
+import { SelectElement } from "@neptune3d/dom";
 import { BORDER_RADIUS, COLORS, FONT_SIZE, SPACING } from "./constants";
 
 export class SelectControl extends SelectElement {

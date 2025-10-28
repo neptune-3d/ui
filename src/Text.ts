@@ -1,5 +1,5 @@
 import type { Property } from "csstype";
-import { DomElement } from "neptune-htm";
+import { DomElement } from "@neptune3d/dom";
 import { COLORS, FONT_SIZE } from "./constants";
 
 export class Text<

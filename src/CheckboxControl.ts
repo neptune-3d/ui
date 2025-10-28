@@ -1,5 +1,5 @@
 import type { Property } from "csstype";
-import { InputCheckbox } from "neptune-htm";
+import { InputCheckbox } from "@neptune3d/dom";
 
 export class Checkbox extends InputCheckbox {
   constructor() {

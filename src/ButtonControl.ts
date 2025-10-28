@@ -1,4 +1,4 @@
-import { Button } from "neptune-htm";
+import { Button } from "@neptune3d/dom";
 import { BORDER_RADIUS, COLORS, FONT_SIZE, SPACING } from "./constants";
 
 export class ButtonControl extends Button {

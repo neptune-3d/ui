@@ -1,5 +1,5 @@
 import type { Property } from "csstype";
-import { InputRange } from "neptune-htm";
+import { InputRange } from "@neptune3d/dom";
 import { BORDER_RADIUS } from "./constants";
 
 export class RangeControl extends InputRange {

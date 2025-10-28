@@ -1,4 +1,4 @@
-import { InputNumber } from "neptune-htm";
+import { InputNumber } from "@neptune3d/dom";
 import { BORDER_RADIUS, COLORS, FONT_SIZE, SPACING } from "./constants";
 
 export class NumberControl extends InputNumber {
