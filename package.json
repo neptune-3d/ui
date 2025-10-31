@@ -1,6 +1,6 @@
 {
   "name": "@neptune3d/ui",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "VanillaJS component library.",
   "type": "module",
   "license": "MIT",
@@ -38,7 +38,7 @@
     "vitest": "^3.2.4"
   },
   "dependencies": {
-    "@neptune3d/dom": "^0.0.2",
+    "@neptune3d/dom": "^0.0.3",
     "@preact/signals-core": "^1.12.1",
     "csstype": "^3.1.3"
   }
