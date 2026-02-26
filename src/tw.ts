@@ -67,13 +67,6 @@ export const TW = {
     xl: "1280px",
     "2xl": "1536px",
   },
-  borderWidth: {
-    0: "0px",
-    1: "1px",
-    2: "2px",
-    4: "4px",
-    8: "8px",
-  },
   spacing: {
     "0": "0px",
     px: "1px",
